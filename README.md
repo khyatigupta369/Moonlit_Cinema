@@ -15,7 +15,7 @@ Check out the live demo:
 
 # Note
 
-> #### Use this URL -  - in case if you see application error in the above mentioned URL
+> #### Use this URL - http://moonlit-cinema.herokuapp.com/ - in case if you see application error in the above mentioned URL
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go even though if you made some typo errors.
 
