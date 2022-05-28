@@ -25,12 +25,17 @@ It is a Moonlight themed Movie Recommender System based on Content Filtering usi
 
 The movies can be easily found by using the auto-suggestion feature, which can handle and complete the trail of movie even with some typos. The results include a holistic review of the movie along with the sentiment analysis of the comments.
 
+
+
 ## Link to the application
 
 Check out the live demo: http://moonlit-cinema.herokuapp.com/
 
 Start by typing the movie you are looking for! Pick and Choose from the auto-suggestions.💬
 Let us complete it for you! You will be good to go even though if you made some typo errors.
+![Moonlit-Cinema demo](https://github.com/khyatigupta369/Moonlit_Cinema/blob/main/media/Screenshot%202022-05-28%20at%208.46.56%20PM.png)
+The results show the movie details along with Recommended Movies based on the selection. There are tags and genres into which each item is categorised by.
+![Moonlit-Cinema demo](https://github.com/khyatigupta369/Moonlit_Cinema/blob/main/media/Screenshot%202022-05-28%20at%208.47.58%20PM.png)
 
 ## 'Invalid Request' Error
 
